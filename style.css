@@ -1,0 +1,52 @@
+
+
+body{
+	background-image: url(images/123.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	margin:50px;
+	margin-right: 243px;
+	margin-left: 300px;
+	
+	
+}
+header {
+	background: url('css/grfx/header.jpg') no-repeat;
+	height: 272px;
+	width: 800px;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+}
+nav ul li {
+	list-style-type: none;
+	display: inline;
+}
+header p {
+	margin-bottom: 150px;
+}
+
+#left{
+	float: left;
+	margin:3px;
+
+}
+
+#right{
+	float: right;
+	margin:3px;
+}
+
+
+button{
+	border-radius: 50%;
+	display: inline-block;
+	cursor: pointer;
+	margin:5px;
+	font-size: 16px;
+	padding:5px;
+	background-color:black;
+	color:red;
+	text-decoration: underline;
