@@ -50,3 +50,22 @@ button{
 	background-color:black;
 	color:red;
 	text-decoration: underline;
+}
+button:hover {
+    color: yellow;
+}
+
+button:active{
+	color: cyan;
+}
+
+
+
+
+h2{
+	color: lightgreen;
+}
+
+
+
+
